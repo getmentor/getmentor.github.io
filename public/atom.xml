@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
     <title type="text">Блог GetMentor</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-03-23T12:53:31&#43;01:00</updated>
+    <updated>2021-03-23T13:33:30&#43;01:00</updated>
     <id>https://blog.getmentor.com/</id>
     <link rel="alternate" type="text/html" href="https://blog.getmentor.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://blog.getmentor.com/atom.xml" />
