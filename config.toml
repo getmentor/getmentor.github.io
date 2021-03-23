@@ -5,6 +5,7 @@ baseURL = "https://blog.getmentor.com/"
 title = "Блог GetMentor"
 languageCode = "ru"
 hasCJKLanguage = false
+publishDir = "docs"
 # Copyright information (Markdown supported)
 copyright = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
 

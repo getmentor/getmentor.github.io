@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
+    <title type="text">Блог GetMentor</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2021-03-23T12:53:31&#43;01:00</updated>
+    <id>https://blog.getmentor.com/</id>
+    <link rel="alternate" type="text/html" href="https://blog.getmentor.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.getmentor.com/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://blog.getmentor.com/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.82.0">Hugo</generator>
+</feed>
