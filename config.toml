@@ -94,17 +94,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "GetMentor.dev"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "georgiy@getmentor.dev"
     # Motto or introduction
     motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://getmentor.dev"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "getmentor_dev"
 
 # Related content
 [related]
@@ -341,15 +341,15 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "GetMentor – это открытое сообщество IT-наставников, готовых делиться своими знаниями и опытом."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2021-02-10T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "getmentor_dev"
     # Note: used for Twitter Cards
 
 
