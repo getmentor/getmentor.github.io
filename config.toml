@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://blog.getmentor.com/"
+baseURL = "https://blog.getmentor.dev/"
 title = "Блог GetMentor"
 languageCode = "ru"
 hasCJKLanguage = false
