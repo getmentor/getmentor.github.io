@@ -15,8 +15,16 @@ theme = "meme"
 newContentEditor = ""
 
 # i18n
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 defaultContentLanguageInSubdir = false
+
+[languages]
+    [languages.en]
+    title = "Блог GetMentor.dev"
+    weight = 2
+    [languages.ru]
+    title = "Блог GetMentor.dev"
+    weight = 1
 
 # Pluralize titles in lists?
 pluralizeListTitles = false
@@ -759,7 +767,7 @@ uglyURLs = false
     # Note: valid for the `posts` and
     #       `page` homepage layout only
 
-    postMetaDateFormat = "2006.1.2"
+    postMetaDateFormat = "02.01.2006"
     # ATTENTION: be sure to follow the
     #            specified format
     #            https://gohugo.io/functions/format/
