@@ -673,7 +673,7 @@ uglyURLs = false
     trackingCodeType = "analytics"
     # Note: gtag or analytics
 
-    trackingID = "UA-188251528-1"
+    trackingID = "UA-188251528-2"
 
     yandexMetrikaId = "71745535"
 
