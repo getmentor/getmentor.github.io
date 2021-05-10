@@ -35,7 +35,7 @@
 
 [[socials]]
     id = "telegram"
-    url = "https://t.me/getmentor"
+    url = "https://t.me/getmentor_dev"
     icon = "telegram"
     title = "Telegram"
     weight = 5
