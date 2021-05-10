@@ -1,7 +1,7 @@
 ---
 title: "Factory Talks. Менторство. Коммуникация. Фидбэк."
 date: 2021-04-27T19:00:00+03:00
-draft: true
+draft: false
 ---
 
 Наш совместный с проектом онлайн-школой SkillFactory.
